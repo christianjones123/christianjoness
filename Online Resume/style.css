@@ -1,0 +1,52 @@
+
+.education{
+
+  border: solid;
+
+  border-width: 2px 4px 2px 4px;
+
+  font-family: fantasy;
+
+}
+
+
+.work{
+
+  font-family: cursive;
+
+  font-style: normal;
+
+}
+
+
+
+.skills{
+
+  border: solid;
+
+  border-width: 4px 6px 4px 6px;
+
+  font-family: sans-serif;
+
+  margin: 50px;
+
+}
+
+
+
+.w{
+
+  background-color: yellow;
+
+}
+
+
+
+.epi{
+
+  background-color: yellow;
+
+}
+
+
+
